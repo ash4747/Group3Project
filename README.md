@@ -6,5 +6,8 @@ The members of this team are:\
 Joshua Ulmer Ju123,\
 Samuel Surdam scs627,\
 Jaylen Hopson jeh857,\
-Joseph Crawford jtc657\
+Joseph Crawford jtc657,\
 
+Languages to be used:\
+Python\
+Python Flask\
