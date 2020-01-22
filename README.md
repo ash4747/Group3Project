@@ -5,7 +5,7 @@ This project is meant to create a twitter like site to tweet,like, and share twe
 
 The members of this team are:\
 
-Real name, NetID, Username,\
+Name    |    NetID  |   Username|\
 Joshua Ulmer Ju123, JoshSE2019\
 Samuel Surdam scs627,\
 Jaylen Hopson jeh857, \
