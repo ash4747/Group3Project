@@ -1,7 +1,7 @@
 # Group3Project
 Twitter project
 
-This project is meant to create a twitter like site to tweet,like, and share tweets.
+This project is meant to create a twitter like site to tweet,like tweets, and follow users.
 
 The members of this team are:\
 
