@@ -8,7 +8,7 @@ The members of this team are:\
 Name    |    NetID  |   Username|\
 Joshua Ulmer Ju123, JoshSE2019\
 Samuel Surdam scs627,\
-Jaylen Hopson jeh857, \
+Jaylen Hopson jeh857, hopsonj19\
 Joseph Crawford jtc657, JoeCrawford99 
 
 Languages to be used:\
